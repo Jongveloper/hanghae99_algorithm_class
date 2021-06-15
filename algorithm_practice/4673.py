@@ -1,5 +1,6 @@
 def d(n):
     n = n + sum(map(int, str(n)))  # n = 2 -> 2 + 2 : 4 // n = 33 - > 33 + 3 + 3 : 39
+    # map 에서 int 로 데이터 타입을 지정했기 때문에 str(n) 도 나뉘고 int 가 된다.
     return n
 
 

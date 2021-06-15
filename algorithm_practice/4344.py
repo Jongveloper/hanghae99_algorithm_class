@@ -9,4 +9,3 @@ for i in range(n):
             cnt += 1  # cnt 를 +1 해줍니다.
     rate = cnt / nums[0] * 100  # 평균이 넘는 학생을 학생수로 나누어 100을 곱해줍니다.
     print(f"{rate:.3f}%")
-
