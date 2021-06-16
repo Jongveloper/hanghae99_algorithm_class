@@ -8,5 +8,3 @@ while True:
         print(title)  # 출력
         break  # 멈춥니다.
     title += 1  # cnt != n 이라면 title 을 + 1 해줍니다.
-221
-
