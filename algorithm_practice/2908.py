@@ -1,3 +1,4 @@
+
 a, b = list(map(str, input().split()))
 
 a_list = list(a)
